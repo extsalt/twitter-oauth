@@ -1,0 +1,14 @@
+{
+    "name": "hp/twitter",
+    "authors": [
+        {
+            "name": "Ganesh K",
+            "email": "ganeshk.work@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "abraham/twitteroauth": "^1.0",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
